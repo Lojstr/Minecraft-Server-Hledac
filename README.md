@@ -28,3 +28,6 @@ UPOZORNĚNÍ: TENHLE PROGRAM JE JEN PRO EDUKATIVNÍ DŮVODY, TVŮRCE NENÍ ZODPO
  
 Program modified and translated by Lojstr / Program upravil a přeložil Lojstr
 Program made by Footsiefat. All rights go to him. (Original repository here: https://github.com/Footsiefat/Minecraft-Server-Scanner)
+  
+  
+MOTD Update coming soon - waiting for the original author.
