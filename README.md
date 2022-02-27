@@ -11,7 +11,7 @@ Instalace a instrukce jsou tady:
 
 1) sudo apt install masscan (Nebo jiný distro specifický příkaz)
 2) wget https://raw.githubusercontent.com/robertdavidgraham/masscan/master/data/exclude.conf
-3) sudo masscan -p25565 0.0.0.0/0 --max-rate <maxrate> --excludefile exclude.conf -oL masscan.txt (Nastavte max-rate posílání packetů na limit se kterým jste komfortní. Doporučeno: 1500)
+3) sudo masscan -p25565 0.0.0.0/0 --max-rate ⟨maxrate⟩ --excludefile exclude.conf -oL masscan.txt (Nastavte ⟨maxrate⟩ posílání packetů na limit se kterým jste komfortní. Doporučeno: 1500)
 
 4) pip3 install mcstatus
 5) python3 mcscannerCZ.py
